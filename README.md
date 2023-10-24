@@ -1,2 +1,2 @@
 # lucky
-juego de programación de gekko y juliana
+juego de programación de gekko, juliana y pablo
